@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Arithmetic/Arithmetic.iml" filepath="$PROJECT_DIR$/Arithmetic/Arithmetic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Arrays/Arrays.iml" filepath="$PROJECT_DIR$/Arrays/Arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ConditionalStatement/ConditionalStatement.iml" filepath="$PROJECT_DIR$/ConditionalStatement/ConditionalStatement.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/IdeaProjects.iml" filepath="$PROJECT_DIR$/.idea/IdeaProjects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Loops/Loops.iml" filepath="$PROJECT_DIR$/Loops/Loops.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StringClass_Printing/StringClass_Printing.iml" filepath="$PROJECT_DIR$/StringClass_Printing/StringClass_Printing.iml" />
+    </modules>
+  </component>
+</project>
